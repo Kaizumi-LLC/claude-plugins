@@ -1,0 +1,10 @@
+{
+  "name": "kaizumi-lean-tools",
+  "displayName": "Kaizumi Lean Tools",
+  "version": "1.0.0",
+  "description": "Lean and Six Sigma tools in Claude: describe a process or paste your data, and Kaizumi draws an editable value stream map, yamazumi chart, Pareto chart, control chart, A3, work instruction, and more.",
+  "author": { "name": "Kaizumi LLC", "url": "https://kaizumi.com" },
+  "homepage": "https://kaizumi.com/tools",
+  "license": "MIT",
+  "keywords": ["lean", "six-sigma", "continuous-improvement", "value-stream-map", "a3", "manufacturing"]
+}

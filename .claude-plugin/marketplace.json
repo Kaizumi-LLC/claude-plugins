@@ -1,0 +1,14 @@
+{
+  "name": "kaizumi",
+  "owner": { "name": "Kaizumi LLC", "url": "https://kaizumi.com" },
+  "metadata": {
+    "description": "Kaizumi plugins for Claude."
+  },
+  "plugins": [
+    {
+      "name": "kaizumi-lean-tools",
+      "source": "./kaizumi-lean-tools",
+      "description": "Lean and Six Sigma tools in Claude: value stream maps, yamazumi charts, Pareto, control charts, A3s, work instructions, and more."
+    }
+  ]
+}

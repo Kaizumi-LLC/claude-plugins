@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kaizumi": {
+      "type": "http",
+      "url": "https://kaizumi.com/api/mcp/claude"
+    }
+  }
+}
